@@ -21,3 +21,5 @@ Search box is there to find the status of any specific cell,
 
 as we minimize ,maximize the window number of cells increases which ultimately increases the GRID DIMENSIONS.
 
+Note-- BETTER RUN IN VS-CODE
+
